@@ -1,0 +1,10 @@
+My choice of 4 numbers are:
+choice1
+choice2
+choice3
+choice4
+My choice of 4 numbers are:
+choice2
+choice3
+choice4
+choice5
