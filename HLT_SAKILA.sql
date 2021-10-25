@@ -1,10 +1,13 @@
 --  Retrieve the actor ID, first name, and last name for all actors. 
 -- Sort by last name and then by first name.
+use sakila;
+
 select actor_id, first_name, last_name
 from actor
 order by first_name;
+
 select actor_id, first_name, last_name
-from actor;
+from actor
 order by last_name;
 
 -- Retrieve the actor ID, first name, and last name for all actors 
